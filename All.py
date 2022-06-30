@@ -1,4 +1,4 @@
-#Open Source Give By XNX TEAM
+#Credit : mking
 
 W = '\033[97;1m'
 R = '\033[91;1m'
