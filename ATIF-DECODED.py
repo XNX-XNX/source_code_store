@@ -1,3 +1,5 @@
+# Decoded By XNX Team
+# Source Code :
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
